@@ -1,3 +1,5 @@
+#hosszú a feladat szoval inkabb link: https://www.codewars.com/kata/the-feast-of-many-beasts/train/python
+
 def feast(beast, dish):
    if beast[0] == dish[0] and beast[-1] == dish[-1]:
        return "True"
