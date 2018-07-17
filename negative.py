@@ -1,3 +1,6 @@
+ #itt csak negatívvá kellett tenni egy számot..nem volt semmilyen kitétel. Nem tom bemásolni a feladatot
+ #mert 3. frissítés után is errort ad a codewars
+
 def make_negative(number):
     number = str(number)
     if number[0] == "-" or (number == "0"):
