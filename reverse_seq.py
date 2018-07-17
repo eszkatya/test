@@ -8,3 +8,5 @@ def reverse_seq(n):
     return a
 
 print(reverse_seq(10))
+
+#errort kapok de nem tudom miért, ezt megnézhetnénk
