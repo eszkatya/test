@@ -8,6 +8,6 @@ def two_sort(array):
 
 print((two_sort(["bitcoin", "take", "over", "the", "world", "maybe", "who", "knows", "perhaps"])))
 
-# !:
+# csakmert egyszerű:
 # def two_sort(lst):
 #    return '***'.join(min(lst))
