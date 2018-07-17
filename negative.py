@@ -7,3 +7,8 @@ def make_negative(number):
     return number2
 
 print(make_negative(0))
+
+"""hát itt kábé minden elegánsabb mint az enyém
+def make_negative( number ):
+    return -abs(number)
+ezek szerint a mínusz jelent nem csak egy konkrét szám elé használtom
