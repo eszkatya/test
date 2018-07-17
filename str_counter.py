@@ -6,3 +6,10 @@ def str_count(strng, letter):
     return counter
 
 print(str_count('Hello', 'b'))
+
+#izginek tűnik, de nem értem:
+#str_count=lambda x,y:x.count(y)#(strng, letter):
+
+# ami sokkal szebb:
+#def strCount(string, letter):
+#    return string.count(letter)
