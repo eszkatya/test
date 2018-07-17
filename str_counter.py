@@ -1,3 +1,5 @@
+# meg kellett adni egy stringet és egy betűt, utóbbi előfordulását megszámoltatni a stringben
+#https://www.codewars.com/kata/abbreviate-a-two-word-name/train/python
 def str_count(strng, letter):
     counter = 0
     for i in strng:
