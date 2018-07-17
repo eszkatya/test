@@ -7,3 +7,7 @@ def two_sort(array):
     return elso2
 
 print((two_sort(["bitcoin", "take", "over", "the", "world", "maybe", "who", "knows", "perhaps"])))
+
+# !:
+# def two_sort(lst):
+#    return '***'.join(min(lst))
